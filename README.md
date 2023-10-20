@@ -1,6 +1,7 @@
 # The-Spark-Foundation-Internship
 The Sparks Foundation Tasks
 This repository contains the tasks that I completed while working as an intern for The Sparks Foundation.
+![image](https://github.com/Samiksha-Bansod/The-Spark-Foundation-Internship/assets/120119186/964e68e0-121f-41f5-8be5-010349b55871)
 
 Internship Category - Data Science and Business Analytics
 Internship Duration - 1 Month ( October 2023 )
